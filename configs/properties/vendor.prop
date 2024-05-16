@@ -251,6 +251,9 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 # Gatekeeper
 vendor.gatekeeper.is_security_level_spu=0
 
+# GFX
+ro.config.avoid_gfx_accel=true
+
 # Graphics
 graphics.gpu.profiler.support=true
 ro.hardware.egl=adreno
