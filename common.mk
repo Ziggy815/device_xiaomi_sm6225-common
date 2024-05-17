@@ -411,6 +411,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     FrameworksResCommon \
     FrameworksResTarget \
+    SettingsResCommon \
     SystemUIResCommon \
     WifiResCommon \
     WifiResTarget
