@@ -171,6 +171,7 @@ drm.service.enabled=true
 # Display
 debug.egl.hw=0
 debug.mdpcomp.logs=0
+debug.sdm.support_writeback=0
 debug.sf.enable_advanced_sf_phase_offset=1
 debug.sf.enable_hwc_vds=0
 debug.sf.high_fps_early_gl_phase_offset_ns=-5000000
